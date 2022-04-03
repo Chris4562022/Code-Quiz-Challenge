@@ -20,3 +20,13 @@ Tools Used:
  ----------------------------------
  
  ![image](https://user-images.githubusercontent.com/99276361/161445253-3f5082bc-802d-4833-aef0-252f902beac5.png)
+ 
+ 
+ 
+ Image of the Sample Question:
+ ----------------------------------
+ 
+
+ 
+ ![image](https://user-images.githubusercontent.com/99276361/161445308-aed7a2dd-ce82-491b-bd4e-1910e8d4b79d.png)
+
